@@ -1,0 +1,16 @@
+{"ProductList":
+							[
+								{"Categories":"Çorba Çeşitleri", "ProductCode" : "Mercimek", "Price": "5", "Logo": "corbalar/mercimek.jpg"},
+								{"Categories":"Çorba Çeşitleri", "ProductCode" : "Tavuk Suyu", "Price": "5", "Logo": "corbalar/tavuk_suyuna_corba.png"},
+								{"Categories":"Çorba Çeşitleri", "ProductCode" : "Etli Çorba", "Price": "11", "Logo": "corbalar/etli_corba.jpg"},
+								{"Categories":"Çorba Çeşitleri", "ProductCode" : "İşkembe Çorbası", "Price": "9", "Logo": "corbalar/terbiyeli_iskembe_corbasi.jpg"},
+								{"Categories":"Ara Sıcaklar", "ProductCode" : "İçli Köfte", "Price": "6", "Logo": "arasicaklar/icli_kofte.jpg"},
+								{"Categories":"Ara Sıcaklar", "ProductCode" : "Kalem Böreği", "Price": "5", "Logo": "arasicaklar/kalem_boregi.jpg"},
+								{"Categories":"Ara Sıcaklar", "ProductCode" : "Paçanga Böreği", "Price": "7", "Logo": "arasicaklar/pacanga.jpg"},
+								{"Categories":"Kebaplar", "ProductCode" : "Dana antrikot", "Price": "22", "Logo": "kebaplar/dana_antikrot.jpg"},
+								{"Categories":"Kebaplar", "ProductCode" : "Dana biftek", "Price": "20", "Logo": "kebaplar/dana_biftek.jpg"},
+								{"Categories":"Kebaplar", "ProductCode" : "Dana bonfile", "Price": "25", "Logo": "kebaplar/dana_bonfle.jpg"},
+								{"Categories":"Kebaplar", "ProductCode" : "Kuzu Beyti", "Price": "18", "Logo": "kebaplar/kuzu_beyti.jpg"},
+								{"Categories":"Kebaplar", "ProductCode" : "Kuzu Şiş", "Price": "18", "Logo": "kebaplar/kuzu_sis.jpg"}
+							]
+}

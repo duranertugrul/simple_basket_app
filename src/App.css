@@ -1,0 +1,58 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+}
+button {
+  height: 40px;
+  width: 200px;
+}
+
+.track{
+  display: inline-block;
+  width:220px;
+  height: 250px;
+  margin:10px;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.track-img{
+  width:200px;
+  height: 200px;
+  padding: 10px;
+  border:3px solid #fff;
+  border-radius: 3px;
+  object-fit: cover;
+  position: relative;
+}
+
+.left-menu{
+  height:25px;
+  font-size: 22px;
+
+  width:200px;
+}
+.left-menu{
+  top:100px;
+  font-size: 16px;
+  width:200px;
+}
+
+.left-menu-item{
+  text-align: left;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.arrow-button{
+  height:28px;
+  width:22px;
+}
+
+.item-count{
+  width:170px;
+  text-align: right;
+  font-size: 20px;
+
+}
